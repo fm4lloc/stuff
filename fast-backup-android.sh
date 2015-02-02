@@ -21,7 +21,7 @@ declare -r ADB_BIN="/usr/local/bin/adb"
 #
 #  ATTENTION! remove the bar (/) end.
 #  change this	: /a/b/c/
-#  for this		: /a/b/c
+#  for this	: /a/b/c
 #
 declare -r PATH_FILES=(
 	"/data/data/com.android.providers.contacts/databases/contacts2.db"
