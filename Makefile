@@ -1,11 +1,22 @@
 # Simple generic Makefile 1.0 - (Fm4lloc)
-#
 # ======================================================================
 # This Makefile was written with bad practices. Not recommend  using 
 # it on big projects.
 # ======================================================================
-# Create a folder named "src" to place your project's source files; 
-# The Makefile is in the same directory it;
+# Note: Create a folder named "src" to place your project's source files;
+# Example:
+#./project/
+#├── Makefile
+#└── src
+#    ├── a
+#    │   ├── qux.c
+#    │   └── qux.h
+#    ├── b
+#    │   ├── bar.c
+#    │   ├── bar.h
+#    │   └── c
+#    │       └── foo.h
+#    └── main.c
 # ======================================================================
  
 #-----------------------------------------------------------------------
