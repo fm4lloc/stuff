@@ -61,5 +61,5 @@ clean:
     @echo ' '
      
 tar:
-    tar cvjf cryptus_src_$(DATE).tar.bz2 $(SRC) $(HEADERS) Makefile
+    tar cvjf $(PROGNAME)_src_$(DATE).tar.bz2 $(SRC) $(HEADERS) Makefile
     @echo ' '
