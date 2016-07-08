@@ -4,7 +4,9 @@
 # This Makefile was written with bad practices. Not recommend  using 
 # it on big projects.
 # ======================================================================
-#
+# Create a folder named "src" to place your project's source files; 
+# The Makefile is in the same directory it;
+# ======================================================================
  
 #-----------------------------------------------------------------------
 # EDIT HERE
