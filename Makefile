@@ -1,4 +1,4 @@
-# Simple generic Makefile 1.0 - (Fm4lloc)
+# Simple generic Makefile - (Fm4lloc)
 # ======================================================================
 # This Makefile was written with bad practices. Not recommend  using 
 # it on big projects.
